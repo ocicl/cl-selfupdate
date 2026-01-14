@@ -4,6 +4,6 @@ Self-update functionality for Common Lisp executables via GitHub/GitLab Releases
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-selfupdate.git |
-| commit  | 30134b7                                          |
+| commit  | 00134b7                                          |
 | systems | cl-selfupdate                                    |
 |---------+--------------------------------------------------|

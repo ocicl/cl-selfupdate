@@ -4,6 +4,6 @@ Self-update functionality for Common Lisp executables via GitHub/GitLab Releases
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-selfupdate.git         |
-| commit  | e4f32f0                                                  |
+| commit  | 0000000                                                  |
 | systems | cl-selfupdate cl-selfupdate/drakma cl-selfupdate/dexador |
 |---------+----------------------------------------------------------|

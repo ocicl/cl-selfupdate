@@ -7,4 +7,4 @@ Self-update functionality for Common Lisp executables via GitHub/GitLab Releases
 | commit  | ee7dcdc                                                  |
 | systems | cl-selfupdate cl-selfupdate/drakma cl-selfupdate/dexador |
 |---------+----------------------------------------------------------|
- 
+  
